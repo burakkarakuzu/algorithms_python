@@ -25,5 +25,6 @@ else:
     print("The given element is not present in the array")
 </code>
 </pre>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3rVLSpGIVi5TPpn-0xjIen3a68ZbI03IjTUGXL4Th-ucWeDIuCa8zaj5fQ-jgc03tj4&usqp=CAU" />
 </body>
 </HTML>
