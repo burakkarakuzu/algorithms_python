@@ -27,5 +27,17 @@ else:
 </pre>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3rVLSpGIVi5TPpn-0xjIen3a68ZbI03IjTUGXL4Th-ucWeDIuCa8zaj5fQ-jgc03tj4&usqp=CAU" />
 <img src="quadratic-time.png" />
+  <h1><ins>Selected Sort</ins></h1>
+  <pre>
+  <code>
+  def selectSort(A):
+    for i in range(len(A)):
+        min=i
+        for j in range(i+1,len(A)):
+            if A[min]>A[j]:
+                min=j
+        A[i],A[min]=A[min],A[i]
+  </pre>
+  </code>
 </body>
 </HTML>
