@@ -37,6 +37,7 @@ else:
             if A[min]>A[j]:
                 min=j
         A[i],A[min]=A[min],A[i]
+        
   </pre>
   </code>
 </body>
