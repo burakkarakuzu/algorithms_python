@@ -39,5 +39,8 @@ else:
         A[i],A[min]=A[min],A[i]
   </pre>
   </code>
+  <br><br>
+  <h1><ins>Bubble Sort</ins></h1>
+  <img src="https://user-images.githubusercontent.com/95481169/167299276-b549477d-cf91-4856-b308-64d5601d841d.png"/>
 </body>
 </HTML>
